@@ -1,7 +1,7 @@
 
 <div align="center">
 <h2>  Python Semester Plus 10</h2>
-<img src='A_icons/53380.png'  width="175" />
+ <p> <img src='A_icons/53380.png'  width="175" /> <img src='A_icons/large-feather.png'  width="175" /> </p>
 <p align="center">
 	<a href="https://img.shields.io/github/languages/top/Ahmed-Hamdy101/Python-Semester-Plus-10"> <img src="https://img.shields.io/github/languages/top/Ahmed-Hamdy101/Python-Semester-Plus-10"/></a>
 	<a href="https://img.shields.io/github/stars/Ahmed-Hamdy101/Python-Semester-Plus-10?style=social"> <img src="https://img.shields.io/github/stars/Ahmed-Hamdy101/Python-Semester-Plus-10?style=social"/></a>
@@ -56,6 +56,6 @@
 ## Requirements
  > See Requirements from [here](./Requirements.md)
 ## Resources :smile:
- - [Awesome Material](https://github.com/Ahmed-Hamdy101/Awesome-Material) :stars:
- -[ Learn Python](https://www.learnpython.org/)
- - [Massachusetts Institute of Technology](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/)
+ - :stars: [Awesome Material](https://github.com/Ahmed-Hamdy101/Awesome-Material) 
+ - [Learn Python](https://www.learnpython.org/)
+ - [Massachusetts Institute of Technology With Python](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/)
