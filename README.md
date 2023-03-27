@@ -45,6 +45,7 @@
    - [Functions Syntax](VII_[Functions]/I_Function.py)
    - [Functions Arguments](VII_[Functions]/II_Func_arguments.py)
    - [List Arguments](VII_[Functions]/III_arg_list.py)
+   - [Keys Arguments](VII_[Functions]/III_arg_list.py)
 - [Chapter 8 (Main Function and Precedence)](VII_[Main_Function_and_Precedence])
    - [Main Functions_and_Arguments_keywords](VII_[Main_Function_and_Precedence]\II_Main_and_arg_keywords.py)
 
